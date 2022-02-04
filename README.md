@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... too many things!
 - 🌱 I’m currently learning ... how to knit
 - 💞️ I’m looking to collaborate on ... creative coding projects
-- 📫 How to reach me ... nadamilone@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 nadamilone/nadamilone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
